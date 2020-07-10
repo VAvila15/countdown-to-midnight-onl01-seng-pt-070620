@@ -6,5 +6,3 @@ def countdown(number)
     number -= 1
   end
 end
-def countdown
-end
